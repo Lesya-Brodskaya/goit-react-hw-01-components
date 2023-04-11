@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 
 export const Table = styled.table`
-  margin: auto;
+  margin: 40px auto;
   border-radius: 10px;
   border: 1px solid gray;
   padding: 5px;
